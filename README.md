@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+Information Security enthusiast fascinated by automation and its impact on people both inside and outside the workplace.
 
 <!--
 **JustAnOddPenguin/JustAnOddPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
